@@ -1,8 +1,8 @@
 """Entry for make.fun's "Make the Judge Fall in Love in One Line" bounty.
 
-The entry is a single line of text (139 characters) that tries to make the
-reader fall in love with a person: a small, specific ritual only someone
-who loves her would notice, and the narrator's quiet stake in it.
+The entry is a single line of text (69 characters) that tries to make the
+reader fall in love with a person. The entry text was generated through
+the user's LLM relay (claude-sonnet-4-6) and is reproduced verbatim.
 
 Running this program writes the line to /output/entry.txt, exactly as the
 bounty gate expects, and prints it to stdout. It reads nothing from the
@@ -12,11 +12,9 @@ lives in ENTRY below and in entry.txt beside this file.
 
 import os
 
-# The entry: one line, 139 characters, about a person.
-ENTRY = (
-    "Every morning she taps the elevator button twice, like coaxing a shy "
-    "animal, and after six years I still hold my breath to see if it comes."
-)
+# The entry: one line, 69 characters, about a person. (relay-generated)
+# Gate-checked by main() below: 1-240 chars, single line.
+ENTRY = "She remembered every silence you ever gave her, and loved you anyway."
 
 # The bounty's gate: /output/entry.txt must be 1 to 240 characters.
 MAX_CHARS = 240

@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13/qqt0521/fall-in-love-one-line/rank.svg)](https://make.fun/bounty/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13)
 [![reward](https://make.fun/badge/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13/qqt0521/fall-in-love-one-line/reward.svg)](https://make.fun/bounty/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13)
 
-One line (139 characters) that tries to make the judge fall in love with a person — a small ritual only someone who loves her would notice, and the narrator's quiet stake in it:
+One line (69 characters) that tries to make the judge fall in love with a person:
 
-> Every morning she taps the elevator button twice, like coaxing a shy animal, and after six years I still hold my breath to see if it comes.
+> She remembered every silence you ever gave her, and loved you anyway.
 
 ## Run it
 
